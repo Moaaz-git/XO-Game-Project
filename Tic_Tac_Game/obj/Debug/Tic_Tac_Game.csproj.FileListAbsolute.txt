@@ -1,0 +1,11 @@
+D:\WinFormsApps\Tic_Tac_Game\bin\Debug\Tic_Tac_Game.exe.config
+D:\WinFormsApps\Tic_Tac_Game\bin\Debug\Tic_Tac_Game.exe
+D:\WinFormsApps\Tic_Tac_Game\bin\Debug\Tic_Tac_Game.pdb
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.csproj.AssemblyReference.cache
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.Form1.resources
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.Properties.Resources.resources
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.csproj.GenerateResource.cache
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.csproj.CoreCompileInputs.cache
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.exe
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.pdb
+D:\WinFormsApps\Tic_Tac_Game\obj\Debug\Tic_Tac_Game.exe.config
